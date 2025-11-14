@@ -1,4 +1,4 @@
-import { mergeDeep } from "../utils/fetch.js";
+import { https://ethereum-rpc.publicnode.com } from "../utils/fetch.js";
 
 import { llamaNodesRpcs } from "./llamaNodesRpcs.js";
 
